@@ -12,4 +12,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arya150&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<img src="https://i.imgur.com/3hmSvz4.gif" alt="coding" width="550" height="500"/>
 <i>Happy Coding!</i> 😊
+
+
