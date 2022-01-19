@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... Discord: Ary#2835 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arya150)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arya150&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Arya150/Arya150 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
