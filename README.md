@@ -1,6 +1,6 @@
 
 <img src="https://i.imgur.com/kLwcZ9O.gif" alt="Welcome!" width="500" height="200"/>
-![image](https://user-images.githubusercontent.com/97164081/194757650-578fa95b-34ab-477f-983c-c983bdb2cbc5.png)
+
 
 
 
