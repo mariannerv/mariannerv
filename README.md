@@ -1,7 +1,3 @@
-
-<img src="https://i.imgur.com/kLwcZ9O.gif" alt="Welcome!" width="500" height="200"/>
-
-
 ![dc1e2tp-1a553f97-ee4d-457c-adc9-2cc2700b1699](https://user-images.githubusercontent.com/97164081/194757750-86c7882f-e5a7-4398-ad53-76bc3121dcbb.gif)
 
 
