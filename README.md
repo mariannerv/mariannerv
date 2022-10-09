@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/kLwcZ9O.gif" alt="Welcome!" width="500" height="200"/>
 
 
-<img src="(https://www.deviantart.com/i-zz-y/art/Pixel-speech-bubble-Welcome-button-f2u-727930573)" width="100" height="100" alt="Computer Hope">
+<img src="https://www.deviantart.com/i-zz-y/art/Pixel-speech-bubble-Welcome-button-f2u-727930573" width="100" height="100" alt="Computer Hope">
 
 
 
