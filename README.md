@@ -1,6 +1,6 @@
 
 <img src="https://i.imgur.com/kLwcZ9O.gif" alt="Welcome!" width="500" height="200"/>
-
+![download](https://user-images.githubusercontent.com/97164081/194757475-e0858826-e164-4b97-8069-faea881aba44.gif)
 
 
 - 👋 Hi, I’m @Arya150 aka Mariana, Undergraduate IT Student @ FCUL
