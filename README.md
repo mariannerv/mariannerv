@@ -10,7 +10,7 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arya150&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arya150&hide=javascript,css,scss,html&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arya150)](https://github.com/Arya150/Arya150)
 
 ![download](https://user-images.githubusercontent.com/97164081/194757475-e0858826-e164-4b97-8069-faea881aba44.gif)
 <i>Happy Coding!</i> 😊
