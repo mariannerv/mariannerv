@@ -9,7 +9,7 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arya150&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariannerv&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![download](https://user-images.githubusercontent.com/97164081/194757475-e0858826-e164-4b97-8069-faea881aba44.gif)
