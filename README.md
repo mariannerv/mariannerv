@@ -5,7 +5,7 @@
 - 👋 Hi, I’m @Arya150 aka Mariana, Undergraduate IT Student @ FCUL
 - 👀 I’m interested in ... Cybersecurity!
 - 🌱 I’m currently learning ... how to make a webscraper using python, among other things;
-- 📫 How to reach me ... Discord: Ary#2835 
+- 📫 How to reach me ... Discord: aryaa150
 
 
 
