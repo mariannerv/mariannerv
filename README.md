@@ -3,7 +3,7 @@
 
 
 - 👋 Hi, I’m @mariannerv aka Mariana, Undergraduate IT Student @ FCUL
-- 👀 I’m interested in ... Cybersecurity!
+- 👀 I’m interested in ... all things backend related!
 - 🌱 I’m currently learning ... how to make a webscraper using python, among other things;
 - 📫 How to reach me ... Discord: aryaa150
 
