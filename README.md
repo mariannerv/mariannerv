@@ -2,7 +2,7 @@
 
 
 
-- 👋 Hi, I’m @mariannerv aka Mariana, Undergraduate IT Student @ FCUL
+- 👋 Hi, I’m @mariannerv aka Mariana, and I'm an IT graduate!
 - 👀 I’m interested in ... all things backend related!
 - 🌱 I’m currently learning ... how to make a webscraper using python, among other things;
 - 📫 How to reach me ... email: marianavalente457@gmail.com
